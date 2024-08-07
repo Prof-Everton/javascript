@@ -1,1 +1,1 @@
-alert=("ol tudo bem?")
+alert("ol tudo bem?")
